@@ -1,0 +1,5 @@
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+matplotlib
+tqdm
+transformers
+numpy==1.26.1
