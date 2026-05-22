@@ -1,0 +1,4 @@
+Prompt style: template
+Prompts: ['a photo of a tench', 'a photo of a English springer', 'a photo of a cassette player', 'a photo of a chain saw', 'a photo of a church', 'a photo of a French horn', 'a photo of a garbage truck', 'a photo of a gas pump', 'a photo of a golf ball', 'a photo of a parachute']
+Validation images: 3925
+Accuracy: 0.9845 (98.45%)

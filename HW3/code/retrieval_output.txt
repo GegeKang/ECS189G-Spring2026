@@ -1,0 +1,25 @@
+Indexed images: 5000
+
+Query: a dog catching a frisbee in the air
+1. 000000255664.jpg  score=0.3511
+2. 000000017029.jpg  score=0.3466
+3. 000000369541.jpg  score=0.3408
+4. 000000225670.jpg  score=0.3218
+5. 000000138492.jpg  score=0.3215
+Saved: /Users/gegekang/Desktop/ECS189G-Spring2026/HW3/code/retrieval_results/a_dog_catching_a_frisbee_in_the_air.png
+
+Query: a person riding a bicycle on a city street
+1. 000000380706.jpg  score=0.3095
+2. 000000169996.jpg  score=0.3069
+3. 000000119516.jpg  score=0.2965
+4. 000000038829.jpg  score=0.2956
+5. 000000122166.jpg  score=0.2942
+Saved: /Users/gegekang/Desktop/ECS189G-Spring2026/HW3/code/retrieval_results/a_person_riding_a_bicycle_on_a_city_street.png
+
+Query: a plate of food on a dining table
+1. 000000561889.jpg  score=0.3247
+2. 000000236412.jpg  score=0.3030
+3. 000000419312.jpg  score=0.3004
+4. 000000002157.jpg  score=0.2999
+5. 000000166426.jpg  score=0.2986
+Saved: /Users/gegekang/Desktop/ECS189G-Spring2026/HW3/code/retrieval_results/a_plate_of_food_on_a_dining_table.png

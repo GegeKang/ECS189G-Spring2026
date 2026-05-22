@@ -1,0 +1,3 @@
+Prompt style: bare
+Validation images: 3925
+Accuracy: 0.9845 (98.45%)
